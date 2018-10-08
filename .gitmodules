@@ -1,0 +1,4 @@
+[submodule "external/monads-cxx"]
+	path = external/monads-cxx
+	url = https://github.com/Gregory-Meyer/monads-cxx.git
+	branch = master
